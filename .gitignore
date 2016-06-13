@@ -1,7 +1,12 @@
-*.class
+# Maven build directory
+target
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# IntelliJ files
+*.iml
+*.ipr
+.idea
+
+*.class
 
 # Package Files #
 *.jar
